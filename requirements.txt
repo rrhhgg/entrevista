@@ -1,5 +1,2 @@
 streamlit
-pillow
-streamlit-extras
 openai
-requests
