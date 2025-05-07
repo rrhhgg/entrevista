@@ -1,33 +1,31 @@
 import streamlit as st
 from PIL import Image
+from streamlit_extras.switch_page_button import switch_page
 
-st.set_page_config(page_title="Selector de entrevista", layout="centered")
+st.set_page_config(page_title="Entrevistas Grupo Gómez", page_icon="🍽️", layout="centered")
 
-# Mostrar logo
-logo = Image.open("logo gg.png")
-st.image(logo, use_container_width=True)
+# Logo centrado
+logo = Image.open("utilidades/logo gg.png")
+st.image(logo, width=250)
 
-st.title("Selecciona el tipo de entrevista")
-st.markdown("Elige el puesto para comenzar la evaluación:")
+st.markdown("## Entrevistas Automáticas Grupo Gómez")
+st.markdown("Selecciona el puesto para iniciar la entrevista:")
 
-# Diccionario de botones con enlaces actualizados
-puestos = {
-    "🍽️ Camarero": "https://entrevista-publica-chxtfvmk5qqpijr9j6w94m.streamlit.app/",
-    "🔪 Cocinero": "https://entrevista-publica-c6bp26qxquuj2obdoizn9j.streamlit.app/",
-    "👨‍🍳 Jefe de Cocina": None,
-    "👔 Director": None,
-    "🧼 Friegaplatos": None,
-    "🚚 Repartidor": None,
-    "👩‍✈️ Hostess": None
-}
+# Botones centrados y funcionales
+col1, col2 = st.columns(2)
 
-# Mostrar botones en filas de 3
-cols = st.columns(3)
-i = 0
-for puesto, url in puestos.items():
-    col = cols[i % 3]
-    if url:
-        col.link_button(puesto, url)
-    else:
-        col.button(puesto, disabled=True)
-    i += 1
+with col1:
+    if st.button("🍽️ Camarero"):
+        switch_page("entrevista_camarero_v1")
+
+with col2:
+    if st.button("🔪 Cocinero"):
+        switch_page("entrevista_demo")
+
+# Resto de roles deshabilitados
+st.markdown("### Próximamente:")
+st.button("👨‍🍳 Jefe de Cocina", disabled=True)
+st.button("👔 Director", disabled=True)
+st.button("🧼 Friegaplatos", disabled=True)
+st.button("🚚 Repartidor", disabled=True)
+st.button("👩‍✈️ Hostess", disabled=True)
