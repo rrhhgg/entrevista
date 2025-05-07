@@ -4,7 +4,7 @@ from PIL import Image
 st.set_page_config(page_title="Selector de entrevista", layout="centered")
 
 # Mostrar logo
-logo = Image.open("logo gg.png")
+logo = Image.open("utilidades/logo gg.png")
 st.image(logo, use_container_width=True)
 
 st.title("Selecciona el tipo de entrevista")
