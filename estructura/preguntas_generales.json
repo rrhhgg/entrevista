@@ -1,0 +1,134 @@
+[
+  {
+    "codigo": "G1",
+    "texto": "Preguntas Generales"
+  },
+  {
+    "codigo": "G2",
+    "texto": "📍 Distancia y transporte"
+  },
+  {
+    "codigo": "G3",
+    "texto": "❓1: ¿A qué distancia vives del lugar de trabajo y cómo llegarías habitualmente (a pie, transporte público, vehículo propio, bici, etc.)? En el caso de depender de transporte público como gestionarías el transporte fuera de los horarios de servicio del metro?"
+  },
+  {
+    "codigo": "G4",
+    "texto": "👉 Objetivo: Detectar posibles dificultades logísticas que afecten la puntualidad, continuidad o disponibilidad horaria. Evaluar si el candidato tiene una logística diaria sostenible. El medio de transporte y la distancia deben permitir la puntualidad, asistencia constante y flexibilidad horaria."
+  },
+  {
+    "codigo": "G5",
+    "texto": "Criterios de puntuación:"
+  },
+  {
+    "codigo": "G6",
+    "texto": "10 puntos: Vive cerca o tiene transporte directo fiable (p. ej. va caminando, en bici o en coche propio sin tráfico complicado, patinete sin vivir muy lejos, moto)."
+  },
+  {
+    "codigo": "G7",
+    "texto": "8 puntos: Transporte público directo o con poco transbordo y tiempo razonable. Fuera del horario de servicio del transporte tiene alternativas fiables."
+  },
+  {
+    "codigo": "G8",
+    "texto": "6 puntos: Medio inestable (tráfico muy variable, muchos transbordos, vive a más de 45 minutos)."
+  },
+  {
+    "codigo": "G9",
+    "texto": "1 puntos: Vive lejos sin transporte, ha tenido problemas de asistencia en el pasado por esta razón."
+  },
+  {
+    "codigo": "G10",
+    "texto": "❓2 ¿Qué idiomas hablas y qué nivel tienes en cada uno (básico, intermedio, avanzado, bilingüe incluso el Español )?"
+  },
+  {
+    "codigo": "G11",
+    "texto": "👉 Objetivo: Evaluar la capacidad de comunicación con clientes extranjeros. Especialmente importante en zonas turísticas o locales con clientela internacional. El Ingles es fundamental para los trabajo de atención directa al publico como Camarero, Hostes, Director, Gerente. Otros idioma muy importantes es el Italiano, seguido por francés y alemán. El árabe es un idioma que no debería sumar mucho puesto que habrá muchos candidatos con este idioma pero luego en el dia a dia con los clientes es marginal. Determinar si el candidato puede comunicarse eficazmente con clientes extranjeros. También se valora la honestidad en la autoevaluación.\nEn trabajo mas internos como Cocinero, Jefe de Cocina, Friegue y Transportista el idioma extranjero no es relevante. En ese caso evaluaremos el Español."
+  },
+  {
+    "codigo": "G12",
+    "texto": "Criterios de puntuación:"
+  },
+  {
+    "codigo": "G13",
+    "texto": "10 puntos: Inglés avanzado o bilingüe y habla más de un idioma útil (italiano, francés, alemán, etc.)."
+  },
+  {
+    "codigo": "G14",
+    "texto": "8 puntos: Inglés intermedio sólido, capaz de mantener conversación básica con clientes en hosteleria. No habla otros idiomas pero entiende los clientes puesto que ha trabajado en lugares turísticos."
+  },
+  {
+    "codigo": "G15",
+    "texto": "6 puntos: Inglés básico, se defiende mínimamente pero puede entender un pedido."
+  },
+  {
+    "codigo": "G16",
+    "texto": "1 punto: No habla inglés ni otro idioma, o lo exagera sin fundamentos. En este punto ten en cuenta la coletilla de abajo."
+  },
+  {
+    "codigo": "G17",
+    "texto": "Ojo: en la evaluación del idioma es interesante que si un candidato para roles de atención directa al cliente tiene buena valoración general en las otras preguntas pero baja en la de idiomas me gustaría que lo tuvieras en cuenta para locales como Picaeta o Los Gomez Pobla donde hablar ingles no es demasiado vital."
+  },
+  {
+    "codigo": "G18",
+    "texto": "📄 Historial laboral"
+  },
+  {
+    "codigo": "G19",
+    "texto": "❓ 3. Resume brevemente los motivos por los que dejaste tus tres últimos trabajos indicando en cada uno cuanto tiempo aproximativamente estuviste trabajando."
+  },
+  {
+    "codigo": "G20",
+    "texto": "👉 Objetivo: Detectar patrones negativos (como conflicto constante, falta de compromiso o victimismo) y diferenciar entre razones constructivas (mejora profesional, traslado, final de contrato) y actitudes potencialmente conflictivas."
+  },
+  {
+    "codigo": "G21",
+    "texto": "Criterios de puntuación:"
+  },
+  {
+    "codigo": "G22",
+    "texto": "10 puntos: Todos los cambios han sido por mejora, traslado, fin de contrato o formación y han sido cambios duraderos. No ha ido saltando de un lugar a otro en breves espacios de tiempo."
+  },
+  {
+    "codigo": "G23",
+    "texto": "8 puntos: Uno de los cambios fue por mal ambiente o desgaste, pero lo explica con madurez y autocrítica."
+  },
+  {
+    "codigo": "G24",
+    "texto": "6 puntos: Varios cambios sin claridad, menciona problemas con jefes o compañeros sin asumir parte."
+  },
+  {
+    "codigo": "G25",
+    "texto": "1 punto: Conflictos constantes, victimismo, deja mal a empresas anteriores o falta de autocrítica."
+  },
+  {
+    "codigo": "G26",
+    "texto": "Ojo: Puede haber candidatos con menos de 3 trabajos de experiencia, eso no debe ser motivo de discriminación. En ese caso en la puntuación debe de influir mucho que haya sido un trabajo estable ( al menos 5 meses )"
+  },
+  {
+    "codigo": "G27",
+    "texto": "🤝 Clima laboral"
+  },
+  {
+    "codigo": "G28",
+    "texto": "¿Cómo describirías el ambiente de trabajo en tus últimos empleos? ¿Cómo te llevabas con tus compañeros y responsables?\n\n👉 Objetivo: Valorar el estilo relacional del candidato, si aporta al equipo o tiende a generar tensión. Una respuesta equilibrada y autocrítica es señal de madurez. Evaluar si la persona se adapta bien a los equipos, si aporta al clima laboral o tiende a generar conflictos."
+  },
+  {
+    "codigo": "G29",
+    "texto": "Criterios de puntuación:"
+  },
+  {
+    "codigo": "G30",
+    "texto": "10 puntos: Habla bien del ambiente anterior, menciona colaboración, compañerismo, incluso cuando hubo retos. Sus motivos de cambio fueron mayormente alimentados por su mejora profesional, pero es agradecido por lo que ha estado aprendiendo."
+  },
+  {
+    "codigo": "G31",
+    "texto": "8 puntos: Describe el ambiente de forma neutral y su rol fue positivo o adaptable. Puede haber tenido tensiones con los responsables, pero las asume como normales dentro de las dinámicas laborales."
+  },
+  {
+    "codigo": "G32",
+    "texto": "6 puntos: Muestra cierta incomodidad con equipos pasados, pero sin lenguaje tóxico."
+  },
+  {
+    "codigo": "G33",
+    "texto": "1 punto: Habla negativamente de compañeros o jefes sin justificaciones solidas, se victimiza, o muestra señales de conflicto recurrente."
+  }
+]

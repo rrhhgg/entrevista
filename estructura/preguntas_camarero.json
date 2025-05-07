@@ -1,0 +1,174 @@
+[
+  {
+    "codigo": "C1",
+    "texto": "Preguntas Puesto de Camarero"
+  },
+  {
+    "codigo": "C2",
+    "texto": "💨 Agilidad y ritmo de trabajo"
+  },
+  {
+    "codigo": "C3",
+    "texto": "❓1: Estás atendiendo cuatro mesas que han llegado con poco margen entre ellas. ¿Cómo decides a cuál atender primero?"
+  },
+  {
+    "codigo": "C4",
+    "texto": "a. Saludo brevemente a todas las mesas para que se sientan atendidas y recibidas de la mejor manera. Les llevo las cartas según orden de llegada y hago un primer pedido de bebidas para que puedan ir tomándose un aperitivo mientras eligen. Durante el primer contacto tanteo si la mesa tiene prisa, si están todos los comensales y si tienen las ideas claras para poder decidir cual mesa atender primero. Mi objetivo es el de enviar las comandas cuanto antes a cocina para evitar que se acumulen los pedidos y eso pueda generar retrasos a mis compañeros. Si no identifico ninguna mesa con especial prioridad sigo el orden de llegada y me ofrezco a sugerir platos a las mesas con dudas sobre el pedido. Puntuacion: 10 \n👉 Demuestra criterio, empatía y visión global del servicio, anticipándose a necesidades sin descuidar a cocina ni a los clientes. Esta respuesta me ayuda a entender la capacidad del candidato de leer la situación y tomar decisiones en función de los casos concretos."
+  },
+  {
+    "codigo": "C5",
+    "texto": "b. Tras servir las bebidas a todas las mesas, inicio por la mesa con menos comensales para agilizar el servicio y luego organizo el resto según cercanía a esta ultima mesa con el objetivo de desplazarme lo menos posible y er mas rápido. \nPuntuacion: 8\n👉 Optimiza movimientos con lógica operativa, pero sin tener en cuenta las necesidades reales de cada mesa."
+  },
+  {
+    "codigo": "C6",
+    "texto": "c. Sigo el orden FIFO (First In, First Out), atendiendo estrictamente según el orden de llegada para mantener imparcialidad. Aunque alguna mesa perciba que tiene mas prisa que otra necesito priorizar las personas que han llegado primeras para que también reciban su comida primero."
+  },
+  {
+    "codigo": "C7",
+    "texto": "Puntuacion: 6"
+  },
+  {
+    "codigo": "C8",
+    "texto": "👉 Actúa con orden pero de forma rígida, sin valorar contextos ni adaptar la atención al cliente."
+  },
+  {
+    "codigo": "C9",
+    "texto": "d. Comienzo con la mesa más numerosa, ya que suelen tardar más en decidir, y así aprovecho para seguir avanzando con las otras."
+  },
+  {
+    "codigo": "C10",
+    "texto": "Puntuacion: 1\n👉 Prioriza por suposiciones en lugar de hechos, lo que puede perjudicar tanto al cliente como al ritmo del servicio."
+  },
+  {
+    "codigo": "C11",
+    "texto": "🤝 Trabajo en equipo y compromiso"
+  },
+  {
+    "codigo": "C12",
+    "texto": "❓2: Háblame de una ocasión en la que ayudaste a un compañero que iba atrasado en su trabajo, aunque tú ya habías terminado tus tareas. ¿Qué te motivó a hacerlo y cómo reaccionó el equipo?"
+  },
+  {
+    "codigo": "C13",
+    "texto": "a. Una vez ya había terminado mi cierre y estaba a punto de irme, pero noté que un compañero aún tenía varias mesas esperando pagar. Sin dudarlo, le pregunté si necesitaba ayuda y me encargué de cobrar un par de mesas para que no se generaran esperas. Incluso me aseguré de entregar el cambio y despedirme de los clientes con una sonrisa. Luego se lo comenté al director para que estuviera al tanto de cómo habíamos cerrado el servicio entre todos. Para mí el servicio no termina hasta que todo el equipo termina."
+  },
+  {
+    "codigo": "C14",
+    "texto": "Puntuación: 10\n👉 Competencias mostradas: Trabajo en equipo, iniciativa, atención al cliente, sentido de pertenencia, comunicación con el responsable."
+  },
+  {
+    "codigo": "C15",
+    "texto": "b. Una vez vi que un compañero tenía varias mesas pendientes de cobrar cuando yo ya había terminado. Me acerqué y le pregunté si necesitaba que le ayudara. Cobré una de las mesas mientras él terminaba con otra. Luego recogí mis cosas y me fui. \nPuntuación: 8 \n👉 Competencias mostradas: Trabajo en equipo y colaboración básica.\n👉 Le falta: Profundidad, iniciativa espontánea, reflexión sobre el impacto o mejora de procesos."
+  },
+  {
+    "codigo": "C16",
+    "texto": "c. Lo vi con algunas mesas sin cobrar, pero como yo ya había acabado mis tareas y el turno estaba fuera de mi horario, simplemente le comenté que tenía trabajo pendiente por si no se había dado cuenta. Me fui porque había quedado con alguien. 4. Evalúas si realmente está sobrecargado o si puede gestionarlo solo, y decides no intervenir porque ya has cumplido con tus tareas. \nPuntuación: 6\n👉 Competencias mostradas: Comunicación mínima.\n👉 Le falta: Acción concreta, empatía, proactividad. Prioriza lo personal sobre el equipo o el cliente."
+  },
+  {
+    "codigo": "C17",
+    "texto": "d. Cuando termino mi turno y ya hice mi parte, me voy. Cada uno tiene que encargarse de su trabajo. Si no puede con su zona, debería organizarse mejor. \nPuntuación: 1\n👉 Competencias mostradas: Ninguna relevante.\n👉 Muestra: Falta de compañerismo, indiferencia hacia el cliente, enfoque individualista."
+  },
+  {
+    "codigo": "C18",
+    "texto": "🌟 Calidad del servicio"
+  },
+  {
+    "codigo": "C19",
+    "texto": "❓ 3. Cuéntame sobre una ocasión en la que un cliente te dijo que un plato no estaba a su gusto, aunque ya lo había comido casi entero. ¿Cómo respondiste y qué hiciste para manejar la situación?"
+  },
+  {
+    "codigo": "C20",
+    "texto": "a. El cliente me dijo que el arroz no estaba a su gusto, aunque ya casi había terminado. Le pedí disculpas y le pregunté qué esperaba exactamente. Le expliqué cómo se elabora en nuestro restaurante y le agradecí el comentario. Luego lo comenté con el responsable de sala, y tras su aprobación, le ofrecí un postre por cuenta de la casa para que se sintiera valorado. También informé al jefe de cocina para que lo tuviera en cuenta si había más clientes con esa percepción.\nPuntuación: 10\n👉 Muestra atención al cliente, buena gestión emocional y enfoque en la mejora continua, incluso sin reclamo explícito.\n\nb. Una vez un cliente dijo que la carne no estaba como esperaba, pero ya casi había terminado el plato. Le dije que lamentaba mucho que no fuera lo que quería y que lo comunicaría en cocina. No lo vi muy molesto, pero me aseguré de que se fuera con buena impresión.\nPuntuación: 8\n👉 Buena actitud y respeto por el cliente, aunque con menor iniciativa para transformar la experiencia en algo positivo."
+  },
+  {
+    "codigo": "C21",
+    "texto": "c. Me pasó con una mesa que comentó que el arroz estaba duro, pero ya se lo habían comido. Les dije que lo sentía, pero que no podía hacer mucho porque ya habían comido todo el arroz; les expliqué que en esos casos es importante avisar antes. Me limité a pasar el comentario a cocina.\nPuntuación: 4\n👉 Reconoce el comentario pero no toma acción para mejorar la experiencia ni busca una compensación simbólica.\n\nd. Una vez un cliente me dijo que el plato no estaba bien, pero ya lo había acabado. Le respondí que se lo había comido entero, no podía quejarse ahora. No hice nada más. Muchos clientes te dicen que el plato está mal para que no se lo cobres.\nPuntuación: 1\n👉 Muestra una actitud poco empática y defensiva que afecta la imagen del servicio y la fidelización del cliente."
+  },
+  {
+    "codigo": "C22",
+    "texto": "📚 Capacidad de aprendizaje"
+  },
+  {
+    "codigo": "C23",
+    "texto": "❓4. En el briefing antes del servicio, tu director repasando el servicio anterior, te indica que estás marcando mal los cubiertos. ¿Qué haces?"
+  },
+  {
+    "codigo": "C24",
+    "texto": "a. Le agradezco que me lo diga, le pregunto cómo marcarlos correctamente y tomo nota o saco una foto del correcto posicionamiento. Ese mismo día le pido a un compañero con más experiencia que me vigile un par de mesas para asegurarme de que ya lo hago bien.\nPuntuación: 10\n👉 Demuestra humildad, iniciativa y aprendizaje activo inmediato, buscando validación y mejora continua desde el primer momento."
+  },
+  {
+    "codigo": "C25",
+    "texto": "b. Le digo que gracias por la indicación y me fijo más a partir de ese momento, tratando de corregirlo yo solo durante el servicio."
+  },
+  {
+    "codigo": "C26",
+    "texto": "Puntuación: 8\n👉 Muestra buena actitud receptiva, pero le falta reforzar el aprendizaje con validación o búsqueda activa de feedback."
+  },
+  {
+    "codigo": "C27",
+    "texto": "c. Le contesto que no era consciente, que me fijaré, en el servicio a veces la inercia te lleva a cometer errores. Ya luego en casa lo repaso.\nPuntuación: 6 \n👉 Reconoce el fallo pero no actúa con urgencia ni demuestra interés real por corregirlo en el momento clave. Además intenta buscar una excusa para justificarse."
+  },
+  {
+    "codigo": "C28",
+    "texto": "d. Me molesta un poco porque nunca nadie me había dicho nada, y podría habérmelo comentado antes y no delante de los compañeros, pero le digo que vale. En el servicio sigo marcando igual por costumbre.\nPuntuación: 2\n👉 Muestra resistencia al feedback, poca autocrítica y nula intención de cambio, lo que impide cualquier mejora real."
+  },
+  {
+    "codigo": "C29",
+    "texto": "🛠️ Precisión en procesos y sistemas"
+  },
+  {
+    "codigo": "C30",
+    "texto": "❓ Estás en el pase y ves que un plato está listo pero nadie lo recoge. No es para tu mesa. ¿Qué haces?"
+  },
+  {
+    "codigo": "C31",
+    "texto": "a. Estaba en el pase y vi un plato listo que no era para mi mesa. Vi que pasaban algunos minutos sin que nadie lo recogiera, así que me acerqué al runner de comidas para avisarle. Él me dijo que ya lo tenía controlado, que estaba esperando a que salieran más platos para llevarlos juntos. Le ofrecí mi ayuda si lo necesitaba. Prefiero siempre consultar antes de actuar para no romper el orden ni los tiempos del pase.\nPuntuación: 10\n👉 Muestra respeto por los roles y procedimientos, comunicación efectiva y orientación al servicio sin invadir funciones.\n\nb. Vi que un plato estaba esperando en el pase y no era mío. Pregunté a un compañero si sabía de qué mesa era y, como tampoco lo tenía claro, fui yo mismo a llevarlo para que no se enfriara. Luego lo comuniqué al runner, pero ya había salido.\nPuntuación: 8\n👉 Buena intención de evitar retrasos, pero se salta el proceso establecido sin confirmación, lo que puede generar errores de destino o duplicaciones."
+  },
+  {
+    "codigo": "C32",
+    "texto": "c. Estaba el plato en el pase y como no era mío no hice nada. Pensé que el responsable ya se encargaría. Más tarde vi que se había enfriado y el runner lo volvió a pedir.\nPuntuación: 4\n👉 Respeta los límites de su función, pero falla en comunicar o alertar, lo que contribuye a una mala experiencia final.\n\nd. Vi que un plato llevaba rato en el pase y, como no era mío ni había nadie cerca, lo llevé directamente sin preguntar. Luego me dijeron que me había equivocado de mesa.\nPuntuación: 1\n👉 Actúa sin coordinación ni respeto por el proceso, lo que genera errores y caos en el pase."
+  },
+  {
+    "codigo": "C33",
+    "texto": "📊 Impacto en indicadores clave"
+  },
+  {
+    "codigo": "C34",
+    "texto": "❓ Cuéntame sobre una ocasión en la que una mesa ya había pedido lo justo para cenar. ¿Qué hiciste?"
+  },
+  {
+    "codigo": "C35",
+    "texto": "a. Recuerdo una vez que una pareja solo pidió un plato cada uno y algo de bebida. Vi que la cuenta sería muy baja y quedarias con hambre, así que aproveché para comentar que teníamos una sugerencia de temporada que el chef había preparado especialmente y que no debían perderse. Además, era uno de los platos que el responsable había pedido priorizar porque se acercaba a vencimiento. Se los describí bien y finalmente lo pidieron. Me gusta buscar ese equilibrio entre sugerir y no incomodar, pero siempre intento que el cliente descubra algo más.\nPuntuación: 10\n👉 Muestra iniciativa en la venta activa, sensibilidad con el cliente y alineación con las prioridades del equipo y del negocio."
+  },
+  {
+    "codigo": "C36",
+    "texto": "b. Una vez vi que una mesa había pedido solo lo justo. Les pregunté si querían postre o algún entrante más, pero me dijeron que estaban bien así. No insistí mucho. Luego pensé que podía haber aprovechado para sugerir algún plato especial, pero ya era tarde.\nPuntuación: 8\n👉 Tiene intención y buena actitud hacia la venta, aunque le falta estrategia o convicción para influir en el momento clave.\n\nc. Si una mesa ya ha pedido lo que quiere, normalmente no ofrezco nada más porque no quiero ser pesado. Solo si me preguntan, les digo lo que hay de más. \nPuntuación: 4\n👉 Muestra poca proactividad comercial y no entiende la venta como parte de su rol; espera a que el cliente tome la iniciativa.\n\nd. Si ya han pedido, yo no digo nada más. Si no han pedido mas puede ser porque ya bastante tienen con pagar lo que han pedido.\nPuntuación: 1\n👉 Tiene una actitud pasiva y desconectada del objetivo de venta y del valor añadido que puede aportar al cliente y al restaurante."
+  },
+  {
+    "codigo": "C37",
+    "texto": "🧼 Orden y limpieza"
+  },
+  {
+    "codigo": "C38",
+    "texto": "❓ Has terminado tu servicio y estás a punto de irte. ¿Cómo dejas tu zona de trabajo?"
+  },
+  {
+    "codigo": "C39",
+    "texto": "a. Antes de irme limpio toda la zona, reviso que no quede nada fuera de sitio y utilizo el checklist del cierre si lo hay. Aunque ya haya terminado mi turno, si veo algo mal hecho o fuera de lugar, lo corrijo. Dejar el puesto listo es parte de mi trabajo.\nPuntuación: 10\n👉 Valora altamente el orden, demuestra responsabilidad total y compromiso con la continuidad del servicio.\n\nb. Dejo mi zona recogida y limpia. Me aseguro de que al menos esté como la encontré, y si tengo tiempo, incluso mejor. Si hay algo pequeño pendiente, intento resolverlo antes de irme.\nPuntuación: 8\n👉 Buena actitud y hábitos sólidos, aunque con menor nivel de exigencia o atención al detalle."
+  },
+  {
+    "codigo": "C40",
+    "texto": "c. Limpio mi parte rápidamente y me voy. No dejo todo perfecto, pero tampoco sucio. Si veo que otros no lo hacen, no me meto.\nPuntuación: 4\n👉 Asume una responsabilidad limitada, se enfoca solo en lo suyo sin compromiso con el estado general de la zona.\n\nd. Recojo lo mío y ya. No me entretengo más de la cuenta. Cada uno que se encargue de lo suyo.\nPuntuación: 1\n👉 Muestra indiferencia hacia el entorno común, sin sentido de equipo ni cuidado del espacio compartido.\n\n🔧 Resolución de problemas"
+  },
+  {
+    "codigo": "C41",
+    "texto": "❓ Cuéntame sobre una ocasión en la que cometiste un error al tomar una comanda y se lo serviste mal al cliente. Por ejemplo, que te pidieran un arroz meloso y llegara uno seco. ¿Cómo lo gestionaste?"
+  },
+  {
+    "codigo": "C42",
+    "texto": "a. Me pasó exactamente con un arroz meloso que llegó seco. Al revisar la comanda, vi que el error había sido mío. Me acerqué a la mesa, pedí disculpas, les expliqué lo ocurrido de forma clara y calmada, y les ofrecí una solución inmediata: enviar el arroz correcto o invitarles a una bebida o entrante mientras lo preparaban. Avisé a cocina y estuve pendiente de ellos hasta resolverlo.\nPuntuación: 10\n👉 Muestra responsabilidad total, transparencia, foco en la experiencia del cliente y resolución activa del problema.\n\nb. En una ocasión me equivoqué en un pedido. Me disculpé sinceramente, fui a cocina a corregirlo de inmediato y luego regresé para informar a los clientes de que ya se estaba solucionando. No ofrecí nada adicional, pero me aseguré de estar atento hasta que salió el plato correcto.\nPuntuación: 8\n👉 Buena gestión del error y seguimiento, aunque con menos iniciativa para compensar la experiencia."
+  },
+  {
+    "codigo": "C43",
+    "texto": "c. Una vez serví mal un arroz y noté que era mi culpa. Les dije que había sido un malentendido, que se solucionaría enseguida y pedí comprensión. Avise a cocina y se corrigió, pero no entré en detalles ni ofrecí nada adicional.\nPuntuación: 5\n👉 Reconoce el error, pero lo minimiza sin asumir plena responsabilidad ni ofrecer una solución proactiva.\n\nd. Me equivoqué en una comanda y cuando el cliente lo mencionó, preferí llamar al encargado para que se hiciera cargo. Me sentí incómodo y no sabía muy bien qué decir.\nPuntuación: 1\n👉 Evita la responsabilidad y delega el problema, sin demostrar capacidad para gestionar errores directamente."
+  }
+]
