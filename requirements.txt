@@ -1,5 +1,5 @@
-streamlit
-pillow
+streamlit==1.25.0
 streamlit-extras
 openai
+pillow
 requests
